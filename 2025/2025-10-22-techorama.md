@@ -5,13 +5,13 @@
 | Date | Day | Location | Activities/Travel | Notes |
 |------|-----|----------|------------------|-------|
 | **Wed Oct 22** | Travel Day | Madison → Paris | ✈️ **AA5107** MSN→PHL (1:00 PM - 4:13 PM)<br>✈️ **AA0754** PHL→CDG (2C) (10:15 PM - 11:30 AM+1) | Overnight flight to Paris |
-| **Thu Oct 23** | Day 1 | Paris → Reims | 🛬 Arrive CDG 11:30 AM<br>☕ Quick Paris airport lunch/coffee? AA Admiral lounge in CDG in 2A?<br>🚄 **TGV** Paris CDG → Reims (2:59 PM - 4:22 PM) €54.20[^1] | 🏨 **Hyatt Centric Reims** |
-| **Fri Oct 24** | Day 2 | Reims | 🍾🍽️ 11:20–15:20 Ruinart – The Weekend Interlude[^2]<br>Cathedral stroll / casual champagne bar evening | 🏨 **Hyatt Centric Reims** |
-| **Sat Oct 25** | Day 3 | Reims | 🍾 10:05–12:05 Veuve Clicquot – Art of Aging Tour[^3]<br>🍾 15:30–17:00 Taittinger – Instant Duo Comtes Tour[^4]<br>Morning: Relaxed café or city walk<br>Evening: Dinner in Reims | 🏨 **Hyatt Centric Reims** |
-| **Sun Oct 26** | Day 4 | Reims → Paris | Morning: Open (lunch in Rheims? Quick champagne house?)<br>🚄 **TGV** Reims → Paris Gare de l'Est (1:15 PM - 2:01 PM) €37[^1]<br>Evening: Paris night out | 🏨 **TBD Paris** |
-| **Mon Oct 27** | Day 5 | Paris → Utrecht | Morning: Quick Paris sights/shopping<br>🚄 **Eurostar** Paris Gare du Nord → Amsterdam Centraal (14:18 - 17:50)<br>🚄 **Intercity** Amsterdam → Utrecht (~26m) (frequent departures: 18:05, 18:15, 18:24, etc.) | 🏨 **Inntel Utrecht** |
-| **Tue Oct 28** | Day 6 | Utrecht | **Techorama NL - Day 1**<br>🎤 13:15 - 14:15 - Copilot talk<br>🍽️ 19:30 - Speaker dinner (likely) | 🏨 **Inntel Utrecht** |
-| **Wed Oct 29** | Day 7 | Utrecht | **Techorama NL - Day 2**<br>🎤 14:30 - 15:30 - Actions talk | 🏨 **Inntel Utrecht** |
+| **Thu Oct 23** | Day 1 | Paris → Reims<br>🏨 Hyatt Centric Reims | 🛬 Arrive CDG 11:30 AM<br>☕ Quick Paris airport lunch/coffee? AA Admiral lounge in CDG in 2A?<br>🚄 **TGV** Paris CDG → Reims (2:59 PM - 4:22 PM) €54.20[^1] | Check into hotel |
+| **Fri Oct 24** | Day 2 | Reims<br>🏨 Hyatt Centric Reims | 🍾🍽️ 11:20–15:20 Ruinart – The Weekend Interlude[^2]<br>Cathedral stroll / casual champagne bar evening | Ruinart full day |
+| **Sat Oct 25** | Day 3 | Reims<br>🏨 Hyatt Centric Reims | 🍾 10:05–12:05 Veuve Clicquot – Art of Aging Tour[^3]<br>🍾 15:30–17:00 Taittinger – Instant Duo Comtes Tour[^4]<br>Morning: Relaxed café or city walk<br>Evening: Dinner in Reims | Busy champagne day! |
+| **Sun Oct 26** | Day 4 | Reims → Paris<br>🏨 TBD Paris | Morning: Open (lunch in Rheims? Quick champagne house?)<br>🚄 **TGV** Reims → Paris Gare de l'Est (1:15 PM - 2:01 PM) €37[^1]<br>Evening: Paris night out | Travel to Paris |
+| **Mon Oct 27** | Day 5 | Paris → Utrecht<br>🏨 Inntel Utrecht | Morning: Quick Paris sights/shopping<br>🚄 **Eurostar** Paris Gare du Nord → Amsterdam Centraal (14:18 - 17:50)<br>🚄 **Intercity** Amsterdam → Utrecht (~26m) (frequent departures: 18:05, 18:15, 18:24, etc.) | Travel day, prep for Techorama |
+| **Tue Oct 28** | Day 6 | Utrecht<br>🏨 Inntel Utrecht | **Techorama NL - Day 1**<br>🎤 13:15 - 14:15 - Copilot talk<br>🍽️ 19:30 - Speaker dinner (likely) | Conference day 1 |
+| **Wed Oct 29** | Day 7 | Utrecht<br>🏨 Inntel Utrecht | **Techorama NL - Day 2**<br>🎤 14:30 - 15:30 - Actions talk | Conference day 2 |
 | **Thu Oct 30** | Travel Day | Utrecht → Madison | Morning: Utrecht → AMS airport (~30 min)<br>✈️ **AA0203** AMS→PHL (1:05 PM - 4:20 PM)<br>✈️ **AA5373** PHL→MSN (6:59 PM - 8:29 PM) | Return journey |
 
 ## Trip Summary
