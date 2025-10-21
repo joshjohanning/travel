@@ -30,9 +30,28 @@
 
 **Conference:** Techorama NL (Oct 28-29)
 
-## Food Options
+## Food & Activity Options
 
+**Reims Restaurants:**
 - Le Coq Rouge - good bar with light food in Reims?
+- Le Bec Fin - hidden gem dining
+- Rotisserie Henri - hidden gem dining
+- Le Parc at Domaine Crayères - upscale dinner option
+
+**Champagne Shopping/Tasting:**
+- Trésors de Champagne (2 Rue Olivier Métra, 51100 Reims) - Shop with small independent houses, excellent tastings in English
+- Egly-Ouriet (Ambonnay) - Cellar door sales, cheaper than retail
+
+**Small Producer Tours (if time permits):**
+- Franck Pascal, Allouchery-Perseval, Antoine Bouvet, Bertrand-Delespierre
+- Billecart Salmon - beautiful facilities
+- Pommery - art installations in the caves
+
+**Sightseeing:**
+- Notre Dame Cathedral in Reims - recently renovated rose stained glass window
+
+**Notes:**
+- https://www.reddit.com/r/Champagne/comments/1nzrjv1/any_must_visits_in_the_champagne_region/?share_id=0zMEY28YPe6rChKRaBurE
 
 ---
 
